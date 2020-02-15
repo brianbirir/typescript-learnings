@@ -14,4 +14,4 @@ function addNumbers(n1: number, n2: number, n3: number) {
 
 }
 
-addNumbers(num1, num2, firstName);
+addNumbers(num1, num2, 8);

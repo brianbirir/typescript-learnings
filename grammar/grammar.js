@@ -8,4 +8,4 @@ function addNumbers(n1, n2, n3) {
     var msg = "Sum is " + result;
     console.log(msg);
 }
-addNumbers(num1, num2, firstName);
+addNumbers(num1, num2, 8);
